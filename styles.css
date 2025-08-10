@@ -3,7 +3,7 @@
 :root {
   --primary-color: #FF90BB;
   --secondary-color: #FFC1DA;
-  --extra-light: f3f4f6;
+  --extra-light: #f3f4f6;
   --white: #ffffff;
   --gradient-1: linear-gradient(to bottom right, #A53860, #EF88AD);
   --gradient-2: linear-gradient(
@@ -395,4 +395,5 @@ td {
   .experience__grid {
     grid-template-columns: repeat(3, 1fr);
   }
+
 }
